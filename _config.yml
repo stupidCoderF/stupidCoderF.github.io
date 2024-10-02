@@ -100,5 +100,9 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+### 自动部署到GitHub
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/stupidCoderF/stupidCoderF.github.io
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
