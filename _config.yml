@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 莫道君行早的博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 莫道君行早
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://stupidcoderf.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -106,3 +106,7 @@ deploy:
   repo: https://github.com/stupidCoderF/stupidCoderF.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+admin:
+  username: root
+  password_hash: $2a$10$185h.zhibYsskaC2V1H.qu9VD82vR.WUN8rAVW6nSCRvFfB1lzN3.
+  secret: a secret something
