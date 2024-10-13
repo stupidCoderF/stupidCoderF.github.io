@@ -106,7 +106,7 @@ deploy:
   repo: https://github.com/stupidCoderF/stupidCoderF.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
-admin:
-  username: root
-  password_hash: $2a$10$185h.zhibYsskaC2V1H.qu9VD82vR.WUN8rAVW6nSCRvFfB1lzN3.
-  secret: a secret something
+#admin:
+#  username: root
+#  password_hash: $2a$10$185h.zhibYsskaC2V1H.qu9VD82vR.WUN8rAVW6nSCRvFfB1lzN3.
+#  secret: a secret something
